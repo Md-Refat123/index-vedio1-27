@@ -1,0 +1,149 @@
+@media(max-width: 990px){
+    .menu ul li a {
+        padding: 2px 7px;
+    }
+
+    .service-1 h2 {
+        font-size: 32px;
+        font-weight: 400;
+    }
+
+    .product-1 {
+        flex: 0 0 auto;
+        width:702px;
+    }
+
+    .product .col-md-4 {
+        width: 100%;
+    }
+
+    .prodact-2 {
+        margin: 0 0 30px 0;
+    }
+}
+
+
+@media(max-width: 764px){
+    .google {
+        text-align: center;
+        padding: 7px;
+    }
+
+    .menu ul li a {
+        display: inline-block;
+        border: none;
+        margin-left: 3px;
+    }
+
+    ol, ul {
+        padding-left: 0rem;
+    }
+
+    .product-1 {
+        flex: 0 0 auto;
+        width: 519px;
+    }
+
+
+    .product-1 img {
+        max-width: 34%;
+        display: block;
+        text-align: center;
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .product-1 p {
+        text-align: center;
+    }
+
+    .prodact-2 h2 {
+        font-size: 37px;
+        font-weight: 400;
+    }
+
+}
+
+
+@media(max-width: 764px){
+    .heading h2 {
+        font-size: 23px;
+    }
+
+
+    .heading h1 {
+        font-size: 27px;
+    }
+
+
+    .footer .col-md-6 {
+        width: 30;
+        width: 270px;
+        display: block;
+        margin: auto;
+        padding: 6px 0;
+    }
+}
+
+
+@media(max-width: 518px){
+    .header {
+        width: 530px;
+    }
+
+
+    .bannar {
+        width: 530px;
+    }
+
+    .about {
+        width: 530px;
+    }
+
+
+    .service-1 {
+        width: 458px;
+        margin: auto;
+    }
+
+
+    .product-1 {
+        width: 455px;
+        margin: auto;
+    }
+
+
+    .prodact-2 {
+        width: 447px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+}
+
+
+@media(max-width: 388px){
+    .service-1 {
+        width: 507px;
+    }
+
+    .product-1 {
+        width: 506px;
+    }
+
+    .prodact-2 {
+        width: 506px;
+    }
+
+    .contact .google-map {
+        width: 500px;
+    }
+
+    .contact form {
+        width: 500px;
+    }
+
+    .footer {
+        width: 529px;
+    }
+}

@@ -1,0 +1,138 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.header{
+    background-color: #0099ff;
+}
+
+.header .img{}
+.header .col-md-8{}
+
+.google a img{
+    width: 150px;
+}
+.google{}
+.menu ul{
+    list-style-type: none;
+    line-height: 48px;
+    margin-bottom: 0;
+    margin-left: 90px;
+}
+.menu ul li{
+    display: inline-block;
+}
+
+.menu ul li a{
+    color: #fff;
+    text-decoration: none;
+    padding:2px 14px;
+    display: inline-block;
+    border-right: 1px solid #ddd;
+    margin-left: -4px;
+}
+
+.menu ul li a:hover{
+    background-color: rgb(10, 24, 209);
+}
+
+.menu{}
+
+.product{}
+
+.product-1 p{}
+
+
+.product .col-md-4{}
+
+.bannar{
+    background:url(https://i.ibb.co/VL1pLH0/banar1.webp) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+}
+
+.heading h2 {
+    background-color: #636e72ba;
+    display: inline-block;
+    font-size: 30px;
+    padding: 6px 10px;
+    border-radius: 6px;
+}
+
+.heading h1 {
+    background-color: #74b9ff;
+    display: inline-block;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.about{
+    background-color: #dfe6e9;
+}
+
+.service-1 {
+    background-color: #dfe6e982;
+    border-radius: 6px;
+}
+
+.contact{}
+.contact .google-map{}
+.contact form{}
+
+.footer .col-md-6{}
+
+.service-1 h2 {
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.service-1 span i{
+    font-size: 30px;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 0 30px 0 30px;
+}
+
+.product-1 img{
+    max-width: 100%;
+}
+
+.product-1 {
+    background-color: #00000017;
+    border-radius: 6px;
+}
+
+.prodact-2 {
+    background-color: #00000017;
+    padding: 20px;
+    border: 3px solid #2980b9;
+    border-radius: 6px;
+}
+
+.prodact-2 h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+.prodact-2 li {
+    font-size: 20px;
+    line-height: 30px;
+    list-style-type: none;
+    border: 1px solid rgba(0, 0, 0, 0.11);
+    border-radius: 6px;
+    margin-bottom: 5px;
+}
+
+.footer {
+    background-color: #34495e;
+    color: #ffffff6b;
+}
+
+.footer a{
+    text-decoration: none;
+    color: #fff;
+    padding: 15px;
+}
